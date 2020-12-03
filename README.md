@@ -1,5 +1,3 @@
-# my-project-preact
-
 ## CLI Commands
 
 ``` bash
